@@ -1,6 +1,6 @@
-import Day00.Day00
+import Day01
 
 fun main() {
-    var day = Day00()
+    var day = Day01()
     day.run()
 }
