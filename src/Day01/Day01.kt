@@ -29,8 +29,8 @@ class Day01 {
             }
         }
 
-        max.sort()
-        println(max.takeLast(3).sum())
+        max.sortDescending()
+        println(max.take(3).sum())
     }
 
     fun run() {

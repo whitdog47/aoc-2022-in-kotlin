@@ -1,6 +1,4 @@
-import Day01
-
 fun main() {
-    var day = Day01()
+    val day = Day03()
     day.run()
 }

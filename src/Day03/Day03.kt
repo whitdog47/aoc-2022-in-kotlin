@@ -1,4 +1,4 @@
-class Day00 {
+class Day03 {
 
     private fun part1(input: List<String>) {
 
@@ -9,7 +9,7 @@ class Day00 {
     }
 
     fun run() {
-        val day = "Day00"
+        val day = "Day03"
 
         val input = readInput(day)
         part1(input)
