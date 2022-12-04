@@ -1,4 +1,4 @@
 fun main() {
-    val day = Day04()
+    val day = Day05()
     day.run()
 }
